@@ -1,0 +1,131 @@
+.topbox {
+  background-color: #aee1e1;
+  padding: 100px;
+}
+
+body {
+  margin: 0;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+  background-color: white;
+}
+
+h1 {
+  margin-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+}
+
+.bio {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 0.5;
+}
+
+.middle-container {
+  margin-top: 100px ;
+}
+
+.contact-me {
+  background-color: white;
+  padding-bottom:  20px ;
+}
+
+.bottom-container {
+  background-color: pink;
+  padding: 50px 0  ;
+
+}
+
+h2 {
+  color: #11999E;
+  font-size: 2.8rem;
+  margin: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bcld {
+  position: absolute;
+  margin: 0 auto 0 auto;
+}
+
+.tcld {
+  position: absolute;
+  top: 40px;
+  margin: 40px 200px;
+}
+
+.cbum {
+  height: 300px;
+  border-radius: 25%;
+}
+
+.skill1 {
+  height: 150px;
+  border-radius: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  height: 150px;
+  border-radius: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: red;
+  border-width: 5px;
+  width: 50px;
+}
+
+.BUTTON_EPG {
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #99C624;
+  font-family: Times New Roman;
+  font-size: 63px;
+  font-weight: 300;
+  padding: 30px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 31px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_EPG:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
